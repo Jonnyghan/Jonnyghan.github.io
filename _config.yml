@@ -1,11 +1,11 @@
 # Site settings
 author: Jonathan Ghandforoush
-title: 
+title: CLI Data Gem Project/My First Blog Post
 header-img: img/home-bg.png
 email: jonnyghan@gmail.com
 copyright_name: Jonathan Ghandforoush
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I can't believe I did it!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jonnyghan
