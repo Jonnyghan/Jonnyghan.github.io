@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My time at Flatiron comes to an end!"
-date:       2021-02-24 17:55:31 +0000
+date:       2021-02-24 12:55:35 -0500
 permalink:  my_time_at_flatiron_comes_to_an_end
 ---
 
